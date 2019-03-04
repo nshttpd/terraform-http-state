@@ -1,0 +1,9 @@
+# github.com/konsorten/go-windows-terminal-sequences v1.0.2
+github.com/konsorten/go-windows-terminal-sequences
+# github.com/sirupsen/logrus v1.3.0
+github.com/sirupsen/logrus
+# golang.org/x/crypto v0.0.0-20190228161510-8dd112bcdc25
+golang.org/x/crypto/ssh/terminal
+# golang.org/x/sys v0.0.0-20190303192550-c2f5717e611c
+golang.org/x/sys/unix
+golang.org/x/sys/windows
