@@ -4,6 +4,7 @@ go 1.12
 
 require (
 	github.com/gorilla/mux v1.7.0
+	github.com/jmoiron/sqlx v1.2.0
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/sirupsen/logrus v1.3.0
 	github.com/stretchr/testify v1.3.0 // indirect
